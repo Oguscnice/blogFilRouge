@@ -1,4 +1,7 @@
+com\atelier2103spring\atelierSpring\entity\Category.class
 com\atelier2103spring\atelierSpring\repository\ArticleRepository.class
+com\atelier2103spring\atelierSpring\controller\ArticleController.class
+com\atelier2103spring\atelierSpring\repository\CategoryRepository.class
 com\atelier2103spring\atelierSpring\entity\Article.class
 com\atelier2103spring\atelierSpring\AtelierSpringApplication.class
-com\atelier2103spring\atelierSpring\controller\ArticleController.class
+com\atelier2103spring\atelierSpring\controller\CategoryController.class
